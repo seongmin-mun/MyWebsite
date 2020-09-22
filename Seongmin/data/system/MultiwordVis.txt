@@ -1,0 +1,57 @@
+<div id="readme" class="Box-body readme blob instapaper_body js-code-block-container">
+    <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><h1><a id="user-content-multiwordvis" class="anchor" aria-hidden="true" href="#multiwordvis"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>MultiwordVis</h1>
+
+<p><a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/e4b00218bd4cca1fe175fe0787740c400c03cba1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d557365642d7265642e737667" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-Used-red.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/e00b86939895f8dafa743e73a37f15d7ac494957/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d557365642d627269676874677265656e2e737667" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-Used-brightgreen.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/11140edc7a53167595b8bf94ba489d849c63713a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2532464353532d557365642d79656c6c6f772e737667" alt="HTML/CSS" data-canonical-src="https://img.shields.io/badge/HTML%2FCSS-Used-yellow.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/6618e9538c150a1adf951610a8fdfdaa1c74465a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d557365642d626c756576696f6c65742e737667" alt="R" data-canonical-src="https://img.shields.io/badge/R-Used-blueviolet.svg" style="max-width:100%;"></a></p>
+<h2><a id="user-content-abstract" class="anchor" aria-hidden="true" href="#abstract"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Abstract</h2>
+<p>Topics in a text corpus include features and information; visualizing these topics can improve a user’s understanding of the corpus. Topics can be broadly divided into two categories: those whose meaning can be described in one word and those whose meaning is expressed through a combination of words. The latter type can be described as multiword expressions and consists of a combination of different words. However, the analysis of multiword topics requires systematic analysis to extract accurate topic results. Therefore, we propose a visual system that accurately extracts topic results with multiple word combinations. For this study, we utilize the text of 957 speeches from 43 U.S. presidents (from George Washington to Barack Obama) as corpus data. Our visual system is divided into two parts: First, our system refines the database by topic, including multiword topics. Through data processing, we systematically analyze the accurate extraction of multiword topics. In the second part, users can confirm the details of this result with a word cloud and simultaneously verify the result with the raw corpus. These two parts are synchronized and the desired value of N in the N-gram model, topics, and presidents examined can be altered. In this case study of U.S. presidential speech data, we verify the effectiveness and usability of our system.</p>
+<h3><a id="user-content-screenshots" class="anchor" aria-hidden="true" href="#screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Screenshots</h3>
+<hr>
+<div>
+  <a target="_blank" rel="noopener noreferrer" href="https://seongmin-mun.github.io/VisualSystem/Minor/MultiwordVis/index.html"><img src="./assets/images/Screenshot/MultiwordVis.png" style="max-width:100%;"></a>
+</div>
+<ul>
+<li><a href="https://seongmin-mun.github.io/VisualSystem/Minor/MultiwordVis/index.html" rel="nofollow">Try to use MultiwordVis</a></li>
+</ul>
+<h3><a id="user-content-skills" class="anchor" aria-hidden="true" href="#skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Skills</h3>
+<hr>
+<p>Machine Learning &amp; NLP</p>
+<ul>
+<li>Computer Languages: Java, Python</li>
+<li>DataBase: MySQL, MongoDB</li>
+<li>Machine Learning: RNN (Recurrent Neural Network)</li>
+<li>NLP-based methods: Dependency tagger, POS tagger, Pre-Processing (tokenization, lemmatization, N-gram, window size), etc.</li>
+<li>Tools: IntelliJ IDEA, PyCharm, Jupyter notebook</li>
+</ul>
+<p>Visualization Technique</p>
+<ul>
+<li>Visualization Method: Word Cloud</li>
+</ul>
+<p>Server (Back-end)</p>
+<ul>
+<li>Computer Languages: Java, Python</li>
+<li>DataBase: MySQL, MongoDB</li>
+<li>Libraries: Java (Stanford CoreNLP), Python (numpy, pandas)</li>
+<li>Tools: IntelliJ IDEA, PyCharm</li>
+</ul>
+<p>Client (Front-end)</p>
+<ul>
+<li>Computer Languages: javascript (d3.js, jquery.js), html/css</li>
+<li>DataBase: json</li>
+<li>Tools: Atom, WebStorm</li>
+</ul>
+<h3><a id="user-content-related-works" class="anchor" aria-hidden="true" href="#related-works"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Related works</h3>
+<hr>
+<p>Paper</p>
+<ul>
+<li><p><strong>Mun, S</strong>., Desagulier, G., & Lee, K. (2017). A visual approach for text analysis using multiword topics. <a href="http://eurovis2017.virvig.es/"><i>IEEE, EuroVis 2017, 19th EG/VGTC Conference on Visualization</i></a>.
+<br /><a href="https://diglib.eg.org/handle/10.2312/eurp20171168">Eurographics</a>, <a href="https://dblp.uni-trier.de/pers/hd/m/Mun:Seongmin">dblp</a>, <a href="PDF/Posters/HAL_A visual approach for text analysis using multiword topics.pdf">HAL</a>, <a href="Resources/3.Conferences/Posters/Eurovis2017/Program_Eurovis_2017.pdf">Program</a>, <a href="Resources/3.Conferences/Posters/Eurovis2017/A visual approach for text analysis using multiword topics2_A0.pdf">POSTER</a>, <a href="Resources/3.Conferences/Posters/Eurovis2017/A visual approach for text analysis using multiword topics.pdf">PDF</a></p></li>
+</ul>
+<p>Video</p>
+<ul>
+<li><a href="https://youtu.be/Mk7lLTaj4c0" rel="nofollow">Video</a></li>
+</ul>
+</article>
+  </div>
+
+    </div>
+    <br><br>

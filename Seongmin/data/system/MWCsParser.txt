@@ -1,0 +1,54 @@
+<div id="readme" class="Box-body readme blob instapaper_body js-code-block-container">
+    <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><h1><a id="user-content-depvis" class="anchor" aria-hidden="true" href="#depvis"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>MWCs Parser</h1>
+
+<p><a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/e4b00218bd4cca1fe175fe0787740c400c03cba1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d557365642d7265642e737667" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-Used-red.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/72a3104bb033d54b7bbc1a08bd794c6106083818/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d557365642d626c75652e737667" alt="Python" data-canonical-src="https://img.shields.io/badge/Python-Used-blue.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/e00b86939895f8dafa743e73a37f15d7ac494957/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d557365642d627269676874677265656e2e737667" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-Used-brightgreen.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/125c797e9412145242a6e1b225a43389352a78dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d557365642d3963662e737667" alt="SQL" data-canonical-src="https://img.shields.io/badge/SQL-Used-9cf.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/11140edc7a53167595b8bf94ba489d849c63713a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2532464353532d557365642d79656c6c6f772e737667" alt="HTML/CSS" data-canonical-src="https://img.shields.io/badge/HTML%2FCSS-Used-yellow.svg" style="max-width:100%;"></a></p>
+<h2><a id="user-content-abstract" class="anchor" aria-hidden="true" href="#abstract"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Abstract</h2>
+<p>Multiword expressions (MWEs) are strings of two or more lexemes that are idiosyncratic in some respect. Such complex strings are frequent. Sag et al. (2002) estimate that 41% of the entries in WordNet 1.7 are MWEs. MWEs assume a wide range of forms such as institutionalized phrases and clichés (love conquers all), idioms (kick the bucket), fixed phrases (by and large), compound nouns (frequent-flyer program), verb-particle constructions (eat/look/write up), light verbs (have a drink/*an eat), named entities (Paris), lexical collocations (telephone box/booth/*cabin), etc. The interpretation of MWCs poses a major challenge for NLP techniques due to their heterogeneous nature. We address two challenges: the automatic detection of MWCs from large corpora and the automatic resolution of ambiguities. With respect to the first challenge, we present a parsing algorithm that combines n-gram processing and dependency analysis based on dictionaries. With the help of experiments and case studies on ambiguous sentences, we verify the effectiveness and usability of ‘DepVis’. Results show that our parsing algorithm recognizes MWCs accurately, including in ambiguous sentences. This is because it captures problematic expressions, compares them to the repository of verified MWCs, and outputs a correct representation.</p>
+<h3><a id="user-content-screenshots" class="anchor" aria-hidden="true" href="#screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Screenshots</h3>
+<hr>
+<div>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/embed/meTWC5Nk9F4"><img src="./assets/images/Screenshot/MWCsParser.png" style="max-width:100%;"></a>
+</div>
+<h3><a id="user-content-skills" class="anchor" aria-hidden="true" href="#skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Skills</h3>
+<hr>
+<p>Machine Learning &amp; NLP</p>
+<ul>
+<li>Computer Languages: Java, Python, R</li>
+<li>DataBase: MySQL</li>
+<li>Machine Learning: RNN (Recurrent Neural Network)</li>
+<li>NLP-based methods: Dependency tagger, POS tagger, Pre-Processing (tokenization, lemmatization, N-gram, window size), etc.</li>
+<li>Statistics: Reliability Analysis, Independence t-test</li>
+<li>Tools: IntelliJ IDEA, RStudio, PyCharm, Jupyter notebook</li>
+</ul>
+<p>Visualization Technique</p>
+<ul>
+<li>Visualization Method: Dependency visualization</li>
+</ul>
+<p>Server (Back-end)</p>
+<ul>
+<li>Computer Languages: Java, Python, PHP</li>
+<li>DataBase: MySQL, MongoDB</li>
+<li>Libraries: Java (Stanford CoreNLP), Python (numpy, pandas)</li>
+<li>Tools: IntelliJ IDEA, PyCharm</li>
+</ul>
+<p>Client (Front-end)</p>
+<ul>
+<li>Computer Languages: javascript (d3.js, jquery.js), html/css</li>
+<li>DataBase: json</li>
+<li>Tools: Atom, WebStorm</li>
+</ul>
+<h3><a id="user-content-related-works" class="anchor" aria-hidden="true" href="#related-works"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Related works</h3>
+<hr>
+<p>Paper</p>
+<ul>
+<li><p><strong>Mun, S</strong>., Wang, I., Desagulier, G., Choi, G., & Lee, K. (2018). <i>Time flies like an arrow and fruit flies like a banana; parsing multiword constructions with DepVis</i>. <a href="https://iccg10.sciencesconf.org/">The 10th International Conference on Construction Grammar(ICCG10)</a>.<!-- "Time flies like an arrow and fruit flies like a banana; parsing multiword constructions with DepVis", <strong>Seongmin Mun</strong>, Ilaine Wang, Guillaume Desagulier, Gyeongcheol Choi, Kyungwon Lee, <a href="https://iccg10.sciencesconf.org/">The 10th International Conference on Construction Grammar(ICCG10)</a>, Jul 16th-20th, 2018  --><br/><a href="Resources/3.Conferences/Invitedtalks/ICCG10/programmedetaille_2018_V15.FINAL.pdf">Program</a>, <a href="Resources/3.Conferences/Invitedtalks/ICCG10/Time flies like an arrow and fruit flies like a banana_PPT.pdf">PPT</a>, <a href="Resources/3.Conferences/Invitedtalks/ICCG10/Time flies like an arrow and fruit flies like a banana; parsing multiword constructions with DepVis.pdf">PDF</a></p></li>
+</ul>
+<p>Video</p>
+<ul>
+<li><a href="https://youtu.be/meTWC5Nk9F4" rel="nofollow">Video</a></li>
+</ul>
+</article>
+  </div>
+
+    </div>
+    <br><br>

@@ -1,0 +1,53 @@
+<div id="readme" class="Box-body readme blob instapaper_body js-code-block-container">
+    <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><h1><a id="user-content-depvis" class="anchor" aria-hidden="true" href="#depvis"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Similarity based estimater</h1>
+
+<p><a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/e4b00218bd4cca1fe175fe0787740c400c03cba1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d557365642d7265642e737667" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-Used-red.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/72a3104bb033d54b7bbc1a08bd794c6106083818/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d557365642d626c75652e737667" alt="Python" data-canonical-src="https://img.shields.io/badge/Python-Used-blue.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/e00b86939895f8dafa743e73a37f15d7ac494957/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d557365642d627269676874677265656e2e737667" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-Used-brightgreen.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/125c797e9412145242a6e1b225a43389352a78dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d557365642d3963662e737667" alt="SQL" data-canonical-src="https://img.shields.io/badge/SQL-Used-9cf.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/11140edc7a53167595b8bf94ba489d849c63713a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2532464353532d557365642d79656c6c6f772e737667" alt="HTML/CSS" data-canonical-src="https://img.shields.io/badge/HTML%2FCSS-Used-yellow.svg" style="max-width:100%;"></a></p>
+<h2><a id="user-content-abstract" class="anchor" aria-hidden="true" href="#abstract"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Abstract</h2>
+<p>The intended construal of a polysemous word occurs within a range of words, delivering various frame-semantic meanings (Goldberg,2006) and yet purport similar interpretations (Harris,1954). In this regard, context window-a range of words surrounding a target word, affecting the determination of its characteristics-is drawing attention to the computational understanding of the combinatorial properties of words.<br><br>We ask how the context window addresses polysemy interpretation in Korean, a language typologically different from the major Indo-European languages investigated for this task. We report computational simulations that explore how various sizes of context window account for polysemy of -(u)lo, which manifests polysemy due to its multiple functions mapped onto one form. For this purpose, we used the Sejong corpus, with semantic annotations involving this postposition cross-verified by three native speakers of Korean (<i>κ</i>=0.95). Employing a distributional semantic model, we devised an unsupervised learning algorithm by combining Singular Value Decomposition with Positive Pointwise Mutual Information. Using cosine similarity scores between -(u)lo and its co-occurring content words, dubbed the similarity-based estimate (Dagan et al, 1993), model performance was measured through accuracy rates that the model classiﬁed test sentences by the functions of -(u)lo, with manipulation of context window size from one to ten.<br><br>Our model, achieved the highest classiﬁcation accuracy rate in the window size of one, and the accuracy rates decreased as the window size increased. This trend aligns with the advantages of small window sizes (Bullinaria&Levy,2007). Considering that a narrower range of context window relates more to syntactic than to semantic information (Patel et al.,1997), our model may have employed structural, rather than semantic, characteristics of tri-grams (word-target-word) for the best classiﬁcation performance. Given the networks of interlinked clusters of words and symbolic units in human cognition (<i>construct-i-con</i>; Goldberg,2006), our findings throw light on relations between a polysemous word and an abstract schema including the word, represented as context window, in addressing word-level polysemy.</p>
+<h3><a id="user-content-screenshots" class="anchor" aria-hidden="true" href="#screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Screenshots</h3>
+<hr>
+<div>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/embed/2cEiFwNVgus"><img src="./assets/images/Screenshot/SimilarityBasedEstimater.png" style="max-width:100%;"></a>
+</div>
+<h3><a id="user-content-skills" class="anchor" aria-hidden="true" href="#skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Skills</h3>
+<hr>
+<p>Machine Learning &amp; NLP</p>
+<ul>
+<li>Computer Languages: Java, Python</li>
+<li>DataBase: MySQL</li>
+<li>Machine Learning: Word-Embedding (Singular Value Decomposition, Positive Pointwise Mutual Information)</li>
+<li>NLP-based methods: POS tagger, Pre-Processing (tokenization, lemmatization, N-gram, window size), etc.</li>
+<li>Tools: IntelliJ IDEA, PyCharm, bitnami</li>
+</ul>
+<p>Visualization Technique</p>
+<ul>
+<li>Visualization Method: Interlinked Network</li>
+</ul>
+<p>Server (Back-end)</p>
+<ul>
+<li>Computer Languages: Java, Python, PHP</li>
+<li>DataBase: MySQL, MongoDB</li>
+<li>Libraries: Python (konlpy, numpy, pandas)</li>
+<li>Tools: IntelliJ IDEA, PyCharm</li>
+</ul>
+<p>Client (Front-end)</p>
+<ul>
+<li>Computer Languages: javascript (d3.js, jquery.js), html/css</li>
+<li>DataBase: json</li>
+<li>Tools: Atom, WebStorm</li>
+</ul>
+<h3><a id="user-content-related-works" class="anchor" aria-hidden="true" href="#related-works"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Related works</h3>
+<hr>
+<p>Paper</p>
+<ul>
+<li><p><strong>Mun, S</strong>., & Shin, G-H. (2020). <i>Context window and polysemy interpretation: A case of Korean adverbial postposition –(u)lo</i>. <a href="http://imprsconference.mpi.nl/">IMPRS Conference 2020</a>: Interdisciplinary Approaches to the Language Sciences, <a href="https://www.mpi.nl/">Max Planck Institute for Psycholinguistics</a>. <br/><a href="Resources/3.Conferences/Posters/IMPRS2020/IMPRS Conference 2020 Booklet (27052020).pdf">Program</a>, <a href="Resources/3.Conferences/Posters/IMPRS2020/SM/Seongmin_Mun_FINAL.pdf">PDF</a>, <a href="Resources/3.Conferences/Posters/IMPRS2020/SM/IMPRS_poster_Context window size and polysemy interpretation.pdf">POSTER</a></p></li>
+</ul>
+<p>Video</p>
+<ul>
+<li><a href="https://youtu.be/2cEiFwNVgus" rel="nofollow">Video</a></li>
+</ul>
+</article>
+  </div>
+
+    </div>
+    <br><br>
