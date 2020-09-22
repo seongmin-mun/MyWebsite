@@ -45,8 +45,8 @@
 <hr>
 <p>Paper</p>
 <ul>
-<li><p><strong>Mun, S</strong>., Choi, G., Desagulier, G., & Lee, K. (2018). PreechVis: Visual Profiling using Multiple-word Combinations. <a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=63539&copyownerid=45217"><i>Proceedings of the 13th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (IVAPP2018)</i></a>, 97-107.
-<br/><a href="https://www.scopus.com/authid/detail.uri?authorId=57188692411">Scopus</a>, <a href="https://dblp.uni-trier.de/pers/hd/m/Mun:Seongmin">dblp</a>, <a href="http://www.scitepress.org/PublicationsDetail.aspx?ID=Wq7TAfMcxII=&t=1">Scitepress</a>, <a href="Resources/3.Conferences/Fullpapers/IVAPP2018/IVAPP18-frontmatter.pdf">Program</a>, <a href="Resources/3.Conferences/Fullpapers/IVAPP2018/IVAPP_presentation.pptx">PPT</a>, <a href="Resources/3.Conferences/Fullpapers/IVAPP2018/Visual Profiling using Multiple-word Combinations.pdf">PDF</a></p></li>
+<li><strong>Mun, S</strong>., Choi, G., Desagulier, G., & Lee, K. (2018). PreechVis: Visual Profiling using Multiple-word Combinations. <a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=63539&copyownerid=45217"><i>Proceedings of the 13th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (IVAPP2018)</i></a>, 97-107.
+<br/><a href="https://www.scopus.com/authid/detail.uri?authorId=57188692411">Scopus</a>, <a href="https://dblp.uni-trier.de/pers/hd/m/Mun:Seongmin">dblp</a>, <a href="http://www.scitepress.org/PublicationsDetail.aspx?ID=Wq7TAfMcxII=&t=1">Scitepress</a>, <a href="Resources/3.Conferences/Fullpapers/IVAPP2018/IVAPP18-frontmatter.pdf">Program</a>, <a href="Resources/3.Conferences/Fullpapers/IVAPP2018/IVAPP_presentation.pptx">PPT</a>, <a href="Resources/3.Conferences/Fullpapers/IVAPP2018/Visual Profiling using Multiple-word Combinations.pdf">PDF</a></li>
 </ul>
 <p>Video</p>
 <ul>
