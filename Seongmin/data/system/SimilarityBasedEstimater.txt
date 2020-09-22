@@ -40,7 +40,7 @@
 <hr>
 <p>Paper</p>
 <ul>
-<li><p><strong>Mun, S</strong>., & Shin, G-H. (2020). <i>Context window and polysemy interpretation: A case of Korean adverbial postposition –(u)lo</i>. <a href="http://imprsconference.mpi.nl/">IMPRS Conference 2020</a>: Interdisciplinary Approaches to the Language Sciences, <a href="https://www.mpi.nl/">Max Planck Institute for Psycholinguistics</a>. <br/><a href="Resources/3.Conferences/Posters/IMPRS2020/IMPRS Conference 2020 Booklet (27052020).pdf">Program</a>, <a href="Resources/3.Conferences/Posters/IMPRS2020/SM/Seongmin_Mun_FINAL.pdf">PDF</a>, <a href="Resources/3.Conferences/Posters/IMPRS2020/SM/IMPRS_poster_Context window size and polysemy interpretation.pdf">POSTER</a></p></li>
+<li><strong>Mun, S</strong>., & Shin, G-H. (2020). <i>Context window and polysemy interpretation: A case of Korean adverbial postposition –(u)lo</i>. <a href="http://imprsconference.mpi.nl/">IMPRS Conference 2020</a>: Interdisciplinary Approaches to the Language Sciences, <a href="https://www.mpi.nl/">Max Planck Institute for Psycholinguistics</a>. <br/><a href="Resources/3.Conferences/Posters/IMPRS2020/IMPRS Conference 2020 Booklet (27052020).pdf">Program</a>, <a href="Resources/3.Conferences/Posters/IMPRS2020/SM/Seongmin_Mun_FINAL.pdf">PDF</a>, <a href="Resources/3.Conferences/Posters/IMPRS2020/SM/IMPRS_poster_Context window size and polysemy interpretation.pdf">POSTER</a></li>
 </ul>
 <p>Video</p>
 <ul>
