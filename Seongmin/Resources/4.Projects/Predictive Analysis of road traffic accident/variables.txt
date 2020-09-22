@@ -1,0 +1,23 @@
+location	지사명, 도로가 해당하는 지역
+route		고속도로명
+direction	고속도로 방향
+distance	사고가 발생한 고속도로 위치(고속도로 시작 지점부터 거리)
+level		사고 위험 정도(A이일수록 위험)
+cause_L		사고 원인 큰 구분(운전자, 차량 결함)
+cause_S		사고 원인 작은 구분(졸음, 과속, 음주 등등)
+pattern		사고가 발생한 형태(추돌, 충돌, 화재 등등)
+dir_curv	직선, 곡선
+slope		경사 유무
+surface		사고 발생 도로 표면 상태(건조, 젖음, 눈 등등)
+pavement	도로 포장 상태(양호, 불양호)
+car_type	사고난 자동차 종류
+Road_equipment	사고난 도로 형태(터널, 본선->그냥 보통 도로, 톨게이트, 로터리 등등)
+dead		사망자 수
+injury		부상자 수
+acc_cars	사고난 자동차 수
+arrive_time	사고 처리하는 기관 현장 도착하는데 걸린 시간
+ambluance_time	앰블런스 현장 도착 하는데 걸린 시간
+block_time	사고 처리하기 위해서 도로 차단하는 시간
+handling_time	사고 다 처리하는데 걸린 시간
+damage		사고 피해액
+isDead		발생한 사고에서 사망자가 있는지 없는지 
