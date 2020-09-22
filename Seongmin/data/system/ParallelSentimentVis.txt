@@ -44,8 +44,8 @@
 <hr>
 <p>Paper</p>
 <ul>
-<li><p><strong>Mun, S</strong>., & Lee, K. (2016). Data analysis by Integrating statistics and visualization: Visual verification for the prediction model. <a href="http://www.converge.or.kr/"><i>Journal of Society of Design Convergence</i></a>, 15(6), 195-214.
-<br />Indexing; <a href="https://www.kci.go.kr/kciportal/po/search/poCitaView.kci?sereId=SER000008947&from=sereDetail">KCI</a><br/><a href="http://kiss.kstudy.com/journal/thesis_name.asp?tname=kiss2002&key=3487602">KISS</a>, <a href="Resources/2.Publicated Papers/KCI/Journal of Society of Design Convergence/Data analysis by Integrating statistics and visualization/Table of contents_vol15_no6.jpg">Cover</a>, <a href="Resources/2.Publicated Papers/KCI/Journal of Society of Design Convergence/Data analysis by Integrating statistics and visualization/DT.pdf">DecisionTree</a>, <a href="Resources/2.Publicated Papers/KCI/Journal of Society of Design Convergence/Data analysis by Integrating statistics and visualization/Data analysis by Integrating statistics and visualization.pdf">PDF</a></p></li>
+<li><strong>Mun, S</strong>., & Lee, K. (2016). Data analysis by Integrating statistics and visualization: Visual verification for the prediction model. <a href="http://www.converge.or.kr/"><i>Journal of Society of Design Convergence</i></a>, 15(6), 195-214.
+<br />Indexing; <a href="https://www.kci.go.kr/kciportal/po/search/poCitaView.kci?sereId=SER000008947&from=sereDetail">KCI</a><br/><a href="http://kiss.kstudy.com/journal/thesis_name.asp?tname=kiss2002&key=3487602">KISS</a>, <a href="Resources/2.Publicated Papers/KCI/Journal of Society of Design Convergence/Data analysis by Integrating statistics and visualization/Table of contents_vol15_no6.jpg">Cover</a>, <a href="Resources/2.Publicated Papers/KCI/Journal of Society of Design Convergence/Data analysis by Integrating statistics and visualization/DT.pdf">DecisionTree</a>, <a href="Resources/2.Publicated Papers/KCI/Journal of Society of Design Convergence/Data analysis by Integrating statistics and visualization/Data analysis by Integrating statistics and visualization.pdf">PDF</a></li>
 </ul>
 <p>Video</p>
 <ul>
