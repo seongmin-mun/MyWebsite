@@ -43,8 +43,8 @@
 <hr>
 <p>Paper</p>
 <ul>
-<li><p>Bae, S., <strong>Mun, S</strong>., Choi, G., Lim, S., Bang, S., Son, S., Hong, C., Shin, H., & Lee, K. (2017). Visualization based sankey diagram for decision making tree analysis. <a href="http://fj.ics.keio.ac.jp/cgi17/"><i>ACM, Computer Graphics International 2017 (CGI2017)</i></a>.
-<br/><a href="Resources/3.Conferences/Posters/CGI2017/CGI17_Program_Visualization of Decision Trees that Analyze Medical Data.pdf">Program</a>, <a href="Resources/3.Conferences/Posters/CGI2017/Visualization based sankey diagram for decision making tree analysis_A0.pdf">POSTER</a>, <a href="Resources/3.Conferences/Posters/CGI2017/DT.bmp">DecisionTree</a>, <a href="Resources/3.Conferences/Posters/CGI2017/Visualization of Decision Trees that Analyze Medical Data.pdf">PDF</a></p></li>
+<li>Bae, S., <strong>Mun, S</strong>., Choi, G., Lim, S., Bang, S., Son, S., Hong, C., Shin, H., & Lee, K. (2017). Visualization based sankey diagram for decision making tree analysis. <a href="http://fj.ics.keio.ac.jp/cgi17/"><i>ACM, Computer Graphics International 2017 (CGI2017)</i></a>.
+<br/><a href="Resources/3.Conferences/Posters/CGI2017/CGI17_Program_Visualization of Decision Trees that Analyze Medical Data.pdf">Program</a>, <a href="Resources/3.Conferences/Posters/CGI2017/Visualization based sankey diagram for decision making tree analysis_A0.pdf">POSTER</a>, <a href="Resources/3.Conferences/Posters/CGI2017/DT.bmp">DecisionTree</a>, <a href="Resources/3.Conferences/Posters/CGI2017/Visualization of Decision Trees that Analyze Medical Data.pdf">PDF</a></li>
 </ul>
 <p>Video</p>
 <ul>
