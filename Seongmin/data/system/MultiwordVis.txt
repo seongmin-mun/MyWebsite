@@ -43,7 +43,7 @@
 <hr>
 <p>Paper</p>
 <ul>
-<li><strong>Mun, S</strong>., Desagulier, G., & Lee, K. (2017). A visual approach for text analysis using multiword topics. <a href="http://eurovis2017.virvig.es/"><i>IEEE, EuroVis 2017, 19th EG/VGTC Conference on Visualization</i></a>.
+<li><strong>Mun, S</strong>., Desagulier, G., & Lee, K. (2017). A visual approach for text analysis using multiword topics. <a href="http://eurovis2017.virvig.es/"><i>IEEE, EuroVis 2017, Proceedings of the 19th EG/VGTC Conference on Visualization</i></a>, 57-59.
 <br /><a href="https://diglib.eg.org/handle/10.2312/eurp20171168">Eurographics</a>, <a href="https://dblp.uni-trier.de/pers/hd/m/Mun:Seongmin">dblp</a>, <a href="PDF/Posters/HAL_A visual approach for text analysis using multiword topics.pdf">HAL</a>, <a href="Resources/3.Conferences/Posters/Eurovis2017/Program_Eurovis_2017.pdf">Program</a>, <a href="Resources/3.Conferences/Posters/Eurovis2017/A visual approach for text analysis using multiword topics2_A0.pdf">POSTER</a>, <a href="Resources/3.Conferences/Posters/Eurovis2017/A visual approach for text analysis using multiword topics.pdf">PDF</a></li>
 </ul>
 <p>Video</p>
