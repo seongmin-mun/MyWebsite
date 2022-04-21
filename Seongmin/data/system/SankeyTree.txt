@@ -1,0 +1,57 @@
+<div id="readme" class="Box-body readme blob instapaper_body js-code-block-container">
+    <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><h1><a id="user-content-sankeytree" class="anchor" aria-hidden="true" href="#sankeytree"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>SankeyTree</h1>
+
+<p><a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/e4b00218bd4cca1fe175fe0787740c400c03cba1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d557365642d7265642e737667" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-Used-red.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/72a3104bb033d54b7bbc1a08bd794c6106083818/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d557365642d626c75652e737667" alt="Python" data-canonical-src="https://img.shields.io/badge/Python-Used-blue.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/e00b86939895f8dafa743e73a37f15d7ac494957/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d557365642d627269676874677265656e2e737667" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-Used-brightgreen.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/11140edc7a53167595b8bf94ba489d849c63713a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2532464353532d557365642d79656c6c6f772e737667" alt="HTML/CSS" data-canonical-src="https://img.shields.io/badge/HTML%2FCSS-Used-yellow.svg" style="max-width:100%;"></a> <a href="https://shields.io/#/" rel="nofollow"><img src="https://camo.githubusercontent.com/6618e9538c150a1adf951610a8fdfdaa1c74465a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d557365642d626c756576696f6c65742e737667" alt="R" data-canonical-src="https://img.shields.io/badge/R-Used-blueviolet.svg" style="max-width:100%;"></a></p>
+<h2><a id="user-content-abstract" class="anchor" aria-hidden="true" href="#abstract"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Abstract</h2>
+<p>A decision tree is one of the predictive models in data mining and has been widely used in recent medical-data analyses. In the finding of an important node, the existing decision-tree visualizations are used to show the ratio of the sample number to the target variable. Additional decision variable information, however, is needed since the decision tree for the analysis of the medical data is important for the identification of the variables. Therefore, this study proposes a visualization that can be used to easily find the important terminal nodes and grasp the decision variables.</p>
+<h3><a id="user-content-screenshots" class="anchor" aria-hidden="true" href="#screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Screenshots</h3>
+<hr>
+<div>
+  <a target="_blank" rel="noopener noreferrer" href="https://seongmin-mun.github.io/VisualSystem/Collaborator/SankyTree/index.html"><img src="./assets/images/Screenshot/SankeyTree.png" style="max-width:100%;"></a>
+</div>
+<ul>
+<li><a href="https://seongmin-mun.github.io/VisualSystem/Collaborator/SankyTree/index.html" rel="nofollow">Try to use SankeyTree</a></li>
+</ul>
+<h3><a id="user-content-skills" class="anchor" aria-hidden="true" href="#skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Skills</h3>
+<hr>
+<p>Machine Learning &amp; Statistics</p>
+<ul>
+<li>Computer Languages: R, Python</li>
+<li>DataBase: MySQL</li>
+<li>Machine Learning: Decision Tree (CART (Classification And Regression Trees)), Logistic Regression</li>
+<li>Statistics: Decision tree analysis</li>
+<li>Tools: RStudio, PyCharm, Jupyter notebook</li>
+</ul>
+<p>Visualization Technique</p>
+<ul>
+<li>Visualization Method: Sankey Diagram</li>
+</ul>
+<p>Server (Back-end)</p>
+<ul>
+<li>Computer Languages: Python</li>
+<li>DataBase: MySQL, MongoDB</li>
+<li>Libraries: Python (numpy, pandas)</li>
+<li>Tools: PyCharm</li>
+</ul>
+<p>Client (Front-end)</p>
+<ul>
+<li>Computer Languages: javascript (d3.js, jquery.js), html/css</li>
+<li>DataBase: json</li>
+<li>Tools: Atom, WebStorm</li>
+</ul>
+<h3><a id="user-content-related-works" class="anchor" aria-hidden="true" href="#related-works"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Related works</h3>
+<hr>
+<p>Paper</p>
+<ul>
+<li>Bae, S., <strong>Mun, S</strong>., Choi, G., Lim, S., Bang, S., Son, S., Hong, C., Shin, H., & Lee, K. (June 2017). <i>Visualization based sankey diagram for decision making tree analysis</i>. <a href="http://fj.ics.keio.ac.jp/cgi17/">ACM, Computer Graphics International 2017 (CGI2017)</a>.
+<br/><a href="https://seongmin-mun.github.io/MyWebsite/Seongmin/Resources/3.Conferences/Posters/CGI2017/CGI17_Program_Visualization of Decision Trees that Analyze Medical Data.pdf">Program</a>, <a href="https://seongmin-mun.github.io/MyWebsite/Seongmin/Resources/3.Conferences/Posters/CGI2017/Visualization based sankey diagram for decision making tree analysis_A0.pdf">POSTER</a>, <a href="https://seongmin-mun.github.io/MyWebsite/Seongmin/Resources/3.Conferences/Posters/CGI2017/DT.bmp">DecisionTree</a>, <a href="https://seongmin-mun.github.io/MyWebsite/Seongmin/Resources/3.Conferences/Posters/CGI2017/Visualization of Decision Trees that Analyze Medical Data.pdf">PDF</a></li>
+</ul>
+<p>Video</p>
+<ul>
+<li><a href="https://youtu.be/nE6q0tUcgNg" rel="nofollow">Video</a></li>
+</ul>
+</article>
+  </div>
+
+    </div>
+    </br></br>
